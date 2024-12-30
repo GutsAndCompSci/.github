@@ -18,3 +18,8 @@ At **Guts & Comp Sci**, we’re a team of programmers, creators, and tech enthus
 Our goal, is to push the boundaries of what can be externally done on Roblox, and using Roblox, with our medium being G&B.
 
 ## Our Team
+[zeus](https://github.com/zeusssz) 
+
+[Eden (KnightOfEden)](https://github.com/KnightsOfEden)
+
+[qkasriel](https://github.com/qkasriel)
