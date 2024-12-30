@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/ebde3d30-bcc6-45ae-9b41-fa6a46509fff" alt="Banner Image" width="800"/>
 </p>
 
-<h1 align="center">Welcome to <strong>Guts & Comp Sci</strong>!</h1>
+<h1 align="center">Welcome to <strong>Guts & Computer Science</strong> (G&CS)!</h1>
 
 <p align="center">
   A team of passionate modders and developers creating amazing projects that enhance the world of <a href="https://www.roblox.com/games/12334109280" target="_blank"><strong>Guts & Blackpowder</strong></a> on <strong>@Roblox</strong>!
