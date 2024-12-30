@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to <strong>Guts & Computer Science</strong> (G&CS)!</h1>
 
 <p align="center">
-  A team of passionate modders and developers creating amazing projects that enhance the world of <a href="https://www.roblox.com/games/12334109280" target="_blank"><strong>Guts & Blackpowder</strong></a> on <strong>@Roblox</strong>!
+  A team of passionate programmers and developers creating amazing projects and tools for community of <a href="https://www.roblox.com/games/12334109280" target="_blank"><strong>Guts & Blackpowder</strong></a> on <strong>@Roblox</strong>!
 </p>
 
 ---
