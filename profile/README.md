@@ -18,8 +18,11 @@ At **Guts & Comp Sci**, we’re a team of programmers, creators, and tech enthus
 Our goal, is to push the boundaries of what can be externally done on Roblox, and using Roblox, with our medium being G&B.
 
 ## Our Team
-[zeus](https://github.com/zeusssz) 
+<div align="center">
 
-[Eden (KnightOfEden)](https://github.com/KnightsOfEden)
+| ![zeus](https://github.com/zeusssz.png?size=300) | ![Eden](https://github.com/KnightOfEden.png?size=420) | ![qkasriel](https://github.com/qkasriel.png?size=420) |
+|:---:|:---:|:---:|
+| **[zeus](https://github.com/zeusssz)** | **[Eden (KnightOfEden)](https://github.com/KnightOfEden)** | **[qkasriel](https://github.com/qkasriel)** |
+| *"ML is like riding a bike. Except its on fire, the ground is on fire, and youre in hell."* | *I exist.* | *Overfitting killed my wife and fucked my dog.* |
 
-[qkasriel](https://github.com/qkasriel)
+</div>
