@@ -20,7 +20,7 @@ Our goal, is to push the boundaries of what can be externally done on Roblox, an
 ## Our Team
 <div align="center">
 
-| ![zeus](https://github.com/zeusssz.png?size=300) | ![Eden](https://github.com/KnightOfEden.png?size=420) | ![qkasriel](https://github.com/qkasriel.png?size=420) |
+| ![zeus](https://github.com/zeusssz.png?size=300) | ![Eden](https://github.com/KnightOfEden.png?size=420) | ![qkasriel](https://github.com/qkasriel1.png?size=420) |
 |:---:|:---:|:---:|
 | **[zeus](https://github.com/zeusssz)** | **[Eden (KnightOfEden)](https://github.com/KnightOfEden)** | **[qkasriel](https://github.com/qkasriel1)** |
 | *"ML is like riding a bike. Except its on fire, the ground is on fire, and youre in hell."* | *I exist.* | *Overfitting killed my wife and fucked my dog.* |
